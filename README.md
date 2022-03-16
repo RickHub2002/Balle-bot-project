@@ -1,7 +1,7 @@
 # Balle-bot-project
-Criação de uma landing page do "Balle Bot".
+Criação de uma landing page 100% responsiva do "Balle Bot".
 
-A landing page foi criada com base no layout já existente do figma.
+A landing page foi criada com base no layout já existente no figma.
 
 
 
